@@ -27,72 +27,37 @@ export const knownWalletsUrls = {
 export const socialMedia = [
   {
     name: "facebook",
-    url: "https://facebook.ark.io",
+    url: "https://www.facebook.com/exzocoin",
     viewBox: "0 0 10 16",
   },
   {
     name: "twitter",
-    url: "https://twitter.ark.io",
+    url: "https://twitter.com/exzocoin",
     viewBox: "0 0 16 16",
   },
   {
-    name: "youtube",
-    url: "https://youtube.ark.io",
-    viewBox: "0 0 18 16",
-  },
-  {
     name: "email",
-    url: "mailto:info@ark.io",
+    url: "mailto:admin@exzocoin.com",
     viewBox: "0 0 16 16",
   },
   {
     name: "telegram",
-    url: "https://telegram.me/ArkEcosystem",
+    url: "https://t.me/exzocoin",
     viewBox: "0 0 14 16",
-  },
-  {
-    name: "reddit",
-    url: "https://reddit.ark.io",
-    viewBox: "0 0 16 16",
   },
   {
     name: "github",
-    url: "https://github.ark.io",
+    url: "https://github.com/Exzo-Network/",
     viewBox: "0 0 16 16",
-  },
-  {
-    name: "bitcointalk",
-    url: "https://bitcointalk.ark.io",
-    viewBox: "0 0 16 16",
-  },
-  {
-    name: "slack",
-    url: "https://slack.ark.io",
-    viewBox: "0 0 14 16",
   },
   {
     name: "discord",
-    url: "https://discord.ark.io",
+    url: "https://discord.gg/FcU5y8hZ3m",
     viewBox: "0 0 14 16",
   },
   {
     name: "instagram",
-    url: "https://instagram.ark.io",
-    viewBox: "0 0 14 16",
-  },
-  {
-    name: "medium",
-    url: "https://blog.ark.io",
-    viewBox: "0 0 16 16",
-  },
-  {
-    name: "soundcloud",
-    url: "https://soundcloud.com/thearkcryptopodcast",
-    viewBox: "0 0 20 16",
-  },
-  {
-    name: "minds",
-    url: "https://www.minds.com/arkecosystem",
+    url: "https://www.instagram.com/accounts/login/?next=/exzocoin/",
     viewBox: "0 0 14 16",
   },
 ];
